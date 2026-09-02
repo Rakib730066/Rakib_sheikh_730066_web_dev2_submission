@@ -1,0 +1,16 @@
+# Dependencies and generated output
+frontend/node_modules/
+backend/app/vendor/
+frontend/dist/
+
+# Logs and local environment
+*.log
+*.local
+.env
+.env.*
+
+# Editor/system files
+.DS_Store
+.idea/
+.vscode/*
+!.vscode/extensions.json
